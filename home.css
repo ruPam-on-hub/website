@@ -28,3 +28,7 @@ div{
     text-align: center;
     font-size: 3.5em;
 }
+.ref{
+    color: rgb(255, 255, 37);
+    text-underline-offset: none;
+}

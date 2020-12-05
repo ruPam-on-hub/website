@@ -1,0 +1,30 @@
+body{
+    background-color: orange;
+    margin: 20px 50px 50px 50px;
+}
+h1{
+    color:red;
+    font-family: fantasy;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info{
+   border-style:groove;
+   margin-top: 0px;
+   margin-left: auto;
+   margin-right: 0px;
+   padding: 20px;
+   color: rgb(0, 0, 78);
+   border-radius: 20px;
+}
+.one{
+    margin-left: 100px;
+
+}
+.two{
+    margin-left: 1000px;
+}
